@@ -1,4 +1,4 @@
-Contanto: arthursantaguiar@gmail.com
+#Contanto: arthursantaguiar@gmail.com
 
 Pra começar, pegue o código que está na pasta chamada BD e execute no seu banco de
 dados (programa MySql usado nesse projeto) - para a conexão do php com o banco de
